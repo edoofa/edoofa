@@ -4,7 +4,7 @@
 <br>
 ![Tech Suppport's most used language](https://github-readme-stats.vercel.app/api/top-langs?username=edoofa&theme=dark&show_icons=true&locale=en&layout=compact)
 <br>
-![Tech Suppport's most used language](https://github-readme-streak-stats.herokuapp.com/?user=edoofa&theme=dark)
+![Tech Suppport's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=edoofa&theme=dark)
 
 
 
